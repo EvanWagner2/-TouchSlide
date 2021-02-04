@@ -35,7 +35,6 @@ body {
   justify-content: center;
   padding: 1rem;
   user-select: none;
-  border-radius: 40%;
 }
 
 .slide img {
@@ -58,6 +57,7 @@ body {
   color: #fff;
   text-decoration: none;
   padding: 1rem 1.5rem;
+  border-radius: 40%;
 }
 
 .grabbing {
